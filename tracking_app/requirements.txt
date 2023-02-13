@@ -1,0 +1,6 @@
+fastapi
+httpx
+Pillow
+sqlalchemy
+psycopg2-binary
+uvicorn
